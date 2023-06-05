@@ -1,16 +1,9 @@
-# weather
+Polat Atak Aras Hasanli Yaşar Ünyılmaz 2022-2023 final projesi
+![Screenshot_20230530_120525](https://github.com/GarashHasanli/weather/assets/120680579/db4f4fbf-241c-46ca-a0d2-2e1479222f11)
+![Screenshot_20230530_120506](https://github.com/GarashHasanli/weather/assets/120680579/49f5d40f-c80a-400e-a20f-67c097317f44)
+![Screenshot_20230530_120544](https://github.com/GarashHasanli/weather/assets/120680579/ccc1e367-f0b4-4f79-b2a0-60b5f91d3343)
+![Screenshot_20230530_120445](https://github.com/GarashHasanli/weather/assets/120680579/5436f4d2-ddd2-4ea6-b25d-f8601736f194)
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/GarashHasanli/weather/assets/120680579/e3526ce1-96c4-4d60-9f36-21fef34d6fda
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
